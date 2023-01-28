@@ -1,4 +1,4 @@
-# Kodluyoruz-Temel-Matematik-Projes
+# Kodluyoruz-Temel-Matematik-Projesi
 ## Sezgisel Anlamda Küme 
 Bir **_küme_** adına **_öğe_** ya da **_eleman_** dediğimiz bazı nesneleri içeren bir topluluktur. Örneğin, dünya üzerindeki kıtalar bir bir kümeyi oluşturur, bir kıta 
 üzerindeki ülkeler bir küme ve bir ülkenin şehirleri bir kümeyi oluşturur.  
